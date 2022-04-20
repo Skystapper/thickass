@@ -1,7 +1,7 @@
 ## X-URL-Uploader (Bot)
 ---
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/thickass)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yTQDY2?referralCode=65uDZn)
 Telegram RoBot to Upload Links.
 
 **Features**:
