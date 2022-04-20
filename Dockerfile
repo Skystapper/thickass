@@ -25,4 +25,4 @@ COPY . .
 
 RUN pip install -U -r requirements.txt
 
-CMD [ "python", "-m", "bot", "bash", "start.sh" ]
+CMD [ "python", "-m", "bot", "bash", "start.sh", "procfile" ]
